@@ -24,3 +24,20 @@ You are required to model the demand for shared bikes with the available indepen
 - Prediction
 - Final Comments
 - Conclusion
+
+## Conclusion
+#### After analysing the final model my suggestions are as follows- 
+- Company should focus on expanding business during Spring and winter season.
+- Based on historical data we expecte to have an increase in demand of bikes in the next year also
+- according to the statistic there will be less demand during Light rain/snow.
+### Once the situation is normal, the industry should focus mainly on new customers and new offer to retain old customers during spring break.
+
+## Technologies Used
+- numpy 1.22.2
+- pandas 1.4.0
+- matplotlib 3.5.1
+- seaborn 0.11.2
+- scikit-learn 1.0.2
+- statsmodels 0.13.2
+
+
